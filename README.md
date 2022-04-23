@@ -1,0 +1,2 @@
+# BlogApp
+A rails blog application in which users can create posts and share their reviews on other posts by comments or suggest something related to the posts in the suggestion section. user can also like/report posts. A moderator also exists in the application who is responsible to publish a post created by user or unpublish/delete a post depending upon the reports. Whereas an admin controls everything in the application.
